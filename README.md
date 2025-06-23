@@ -16,9 +16,6 @@
 ## Cart
 ![Cart](https://github.com/user-attachments/assets/d1ee34e0-2d66-47ae-85e0-5a54bf934646)
 
-## Checkout
-![Checkout](https://github.com/user-attachments/assets/5508fbf7-a3f2-4b2b-92d8-1ed9d30ec863)
-
 ---
 
 ## ✨ Features
