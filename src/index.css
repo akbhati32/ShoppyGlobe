@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-main: #2B2A29;
+  --color-wall: #DFB02D;
+  --color-hover: #ADADAD;
+  --color-nav: #101828;
+  --color-banner: #dcaf30;
+  --color-card: #E8E8E8;
+}
+
+@layer components {
+  .btn1 {
+    @apply bg-main cursor-pointer text-white py-2 px-5 rounded w-auto hover:bg-gray-600;
+  }
+
+  .btn2 {
+    @apply cursor-pointer py-2 px-5 rounded w-auto outline-none border hover:bg-main hover:text-white;
+  }
+
+  .btn3 {
+    @apply cursor-pointer py-1 px-5 rounded-full w-auto outline-none border hover:bg-main hover:text-white;
+  }
+
+  .bgTheme {
+    @apply bg-gradient-to-br from-blue-200 via-purple-200 to-pink-200;
+  }
+
+  .textBox {
+    @apply py-2 px-4 border focus:outline-none focus:ring-2 rounded w-full max-w-xl;
+  }
+}
