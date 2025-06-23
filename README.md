@@ -115,11 +115,11 @@ http://localhost:5173
 
 ## 💡 Future Improvements
 
-✅ User authentication (login/register)
-✅ More product categories & filters
-✅ Payment gateway integration
-✅ Admin panel for product management
-✅ Order history tracking
+- ✅ User authentication (login/register)
+- ✅ More product categories & filters
+- ✅ Payment gateway integration
+- ✅ Admin panel for product management
+- ✅ Order history tracking
 
 ---
 
