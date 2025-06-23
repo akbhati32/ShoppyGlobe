@@ -89,8 +89,8 @@
 1.  Clone the repository
 
 ```sh
-git clone https://github.com/akbhati32/Online-Library-System.git
-cd Online-Library-System
+git clone https://github.com/akbhati32/ShoppyGlobe.git
+cd ShoppyGlobe
 ```
 
 2. Install dependencies
