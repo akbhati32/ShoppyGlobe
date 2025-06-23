@@ -7,7 +7,17 @@
 
 
 ---
+## Home
+![Home](https://github.com/user-attachments/assets/ed4f1e47-7e05-46be-865d-42d8f970f3ae)
 
+## Shop
+![Shop](https://github.com/user-attachments/assets/b37d4323-f5b1-4100-a7bb-a0d8451be285)
+
+## Cart
+![Cart](https://github.com/user-attachments/assets/d1ee34e0-2d66-47ae-85e0-5a54bf934646)
+
+## Checkout
+![Checkout](https://github.com/user-attachments/assets/5508fbf7-a3f2-4b2b-92d8-1ed9d30ec863)
 
 ---
 
